@@ -1,7 +1,5 @@
 # Smell-Aware-EA-Mining
 
-# Smell-Aware EA Mining
-
 This repository contains the artifacts for **A Smell-Aware Refinement Framework for Enterprise Architecture Mining**. The framework parses ArchiMate models, detects Enterprise Architecture (EA) smells, estimates their severity, and supports evidence-aware model refinement.
 
 ## Quick Start
